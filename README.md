@@ -4,3 +4,9 @@
  **Expected Output:**  
 Enter a number: 15  
 15  is a odd number.  
+
+**Task 2:** Sum of Integers from 1 to 50 Using a Loop  
+**Description:**  
+Calculate and display the sum of all integers from 1 to 50 using a for loop.  
+**Expected Output:**  
+The sum of numbers from 1 to 50 is:  1275  
